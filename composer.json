@@ -1,0 +1,13 @@
+{
+    "name": "lidianenevez/composer-1",
+    "description": "aula composer da segunda-feira",
+    "authors": [
+        {
+            "name": "Lidianenevez",
+            "email": "lidianeneves79@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5"
+    }
+}
